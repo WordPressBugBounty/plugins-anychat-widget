@@ -52,7 +52,7 @@ abstract class AnyChatConfigModel extends AnyChatConfigModelAbstract
     
     public function validateIntegrationType($value)
     {
-        return in_array($value, array('1', '2', 1, 2));
+        return in_array($value, array('1', '2', '3', 1, 2, 3));
     }
     
     public function validateApiWidget($value)

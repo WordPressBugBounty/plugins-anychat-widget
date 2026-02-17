@@ -1,11 +1,11 @@
 ﻿=== All-in-one Chat Button by anychat.one ===
 Contributors: AnyChat
 Donate link: https://anychat.one/
-Tags: messenger, whatsapp, telegram, viber, skype, chat, livechat, chat free, snapchat, button, getbutton, click to call, callback form, chat button, chat plugin, chat widget
+Tags: messenger, whatsapp, chatbot, livechat, omnichannel
 Requires at least: 3.7
-Tested up to: 6.4.1
+Tested up to: 6.8.3
 Requires PHP: 5.6
-Stable tag: 1.0.3
+Stable tag: 1.0.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -135,6 +135,13 @@ Adding AnyChat Chat Button to your Wordpress site is really easy, follow these s
 
 
 == Changelog ==
+
+= 1.0.5 =
+* Settings issue fix
+
+= 1.0.4 =
+* Added Unified Widget
+* WordPress 6.8.3 support
 
 = 1.0.3 =
 * WordPress 6.4.1 support

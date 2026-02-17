@@ -5,7 +5,7 @@
 /*
 Plugin Name: AnyChat widget
 Description: Display contact us button with menu on every page. Callback request, reCaptcha V3 protection and many customizations!
-Version: 1.0.3
+Version: 1.0.5
 Author: AnyChat
 Author URI: https://anychat.one/
 License: GPLv2 or later
@@ -20,7 +20,7 @@ if (!function_exists('add_action')) {
 define('ANYCHAT_MINIMUM_WP_VERSION', '3.7');
 define('ANYCHAT_PLUGIN_FILE', __FILE__);
 define('ANYCHAT_PLUGIN_NAME', 'anychat');
-define('ANYCHAT_VERSION', '1.0.3');
+define('ANYCHAT_VERSION', '1.0.5');
 define('ANYCHAT_PLUGIN_DIR', plugin_dir_path(__FILE__));
 define('ANYCHAT_PLUGIN_URL', plugin_dir_url(__FILE__));
 define('ANYCHAT_PLUGIN_DIR_CLASSES', plugin_dir_path(__FILE__) . 'classes/');

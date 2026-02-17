@@ -8,4 +8,8 @@
         <div><?php echo esc_html__('Standalone live chat widget', 'anychat') ?></div>
         <img class="img-responsive" src="https://api.anychat.one/img/livechat-mockup.png">
     </div>
+    <div class="four wide column integration-type-option <?php echo ($value == 3)? 'active' : '' ?>" data-value="3">
+        <div><?php echo esc_html__('Unified widget', 'anychat') ?></div>
+        <img class="img-responsive" src="https://api.anychat.one/img/unified-mockup.png">
+    </div>
 </div>
